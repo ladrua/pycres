@@ -35,7 +35,7 @@ toit = 'I am a computer, I will send data to you.' # some binary data
 s.send(toit)
 noe = '000'
 
-print 'Hello.'
+print 'Welcome.'
 
 reply = s.recv(4096)
 while (noe != 'EXIT'):
