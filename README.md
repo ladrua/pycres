@@ -1,4 +1,4 @@
 pycres
 ======
 
-Python code for communications with Crestron prosessor
+Python code for tcp/ip communications with Crestron processor. 
