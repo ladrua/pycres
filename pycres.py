@@ -39,4 +39,4 @@ while (reply != 'EXIT'):
     s.send('You just told me: "%s"' % reply)
     s.send('Tell me something... or send "EXIT" to end me.')
     reply = s.recv(4096)
-    
+print 'Goodbye!'
